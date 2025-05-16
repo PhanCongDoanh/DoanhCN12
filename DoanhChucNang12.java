@@ -15,7 +15,7 @@ public class DoanhChucNang12 {
     }
     
     public float tinhTien(int soDau, int soCuoi){
-        return (soDau - soCuoi) * 1000;
+        return (soDau - soCuoi) * 10000;
     }
     
 }
